@@ -6,3 +6,14 @@ else
 {
 	window.location="login.html";
 }
+
+function getGeoPoints()
+{
+	if (window.sessionStorage.UserLogin && window.sessionStorage.UserCode && window.sessionStorage.UserEmpresa)
+	{}
+	else
+	{
+		
+	}
+	
+}
